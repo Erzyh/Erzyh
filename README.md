@@ -17,18 +17,18 @@
 
 ### 2026
 
+**OSCAR: Provably Consistent LLM Honeypots via Ontology-Constrained Response Generation**<br>
+<a href="https://doi.org/10.1109/TDSC.2026.3749501"><img src="https://img.shields.io/badge/SCIE-IEEE%20TDSC-0969DA?style=flat-square&labelColor=24292F" alt="SCIE"></a>
+
 **A Rapid and Automated Difficulty Evaluation Framework for Rhythm Games via Persona-Driven Multi-Task Behavioral Cloning**<br>
 <a href="https://doi.org/10.1109/access.2026.3712365"><img src="https://img.shields.io/badge/SCIE-IEEE%20Access-0969DA?style=flat-square&labelColor=24292F" alt="SCIE"></a>
-<a href="https://doi.org/10.1109/access.2026.3712365"><img src="https://img.shields.io/badge/DOI-10.1109%2FACCESS.2026.3712365-0969DA?style=flat-square&labelColor=24292F" alt="DOI"></a>
 <a href="https://github.com/Erzyh/MT-BCN-PlayLogs"><img src="https://img.shields.io/badge/Code-MT--BCN--PlayLogs-0969DA?style=flat-square&labelColor=24292F&logo=github&logoColor=white" alt="Code"></a>
 
 **사용자 경험 탐색을 위한 8방향 방사형 인터페이스와 모드 전환 기반 리듬 게임 설계 및 구현**<br>
 <a href="http://doi.org/10.7583/JKGS.2026.26.4.51"><img src="https://img.shields.io/badge/KCI-%ED%95%9C%EA%B5%AD%EA%B2%8C%EC%9E%84%ED%95%99%ED%9A%8C%EB%85%BC%EB%AC%B8%EC%A7%80-0969DA?style=flat-square&labelColor=24292F" alt="KCI"></a>
-<a href="http://doi.org/10.7583/JKGS.2026.26.4.51"><img src="https://img.shields.io/badge/DOI-10.7583%2FJKGS.2026.26.4.51-0969DA?style=flat-square&labelColor=24292F" alt="DOI"></a>
 
 **순환 일관성 기반 로컬 LLM 게임 내러티브 규칙 준수 능력 평가 프레임워크 제안**<br>
 <a href="https://kcgs.or.kr/board/data/article/276828"><img src="https://img.shields.io/badge/Conference-%ED%95%9C%EA%B5%AD%EA%B2%8C%EC%9E%84%ED%95%99%ED%9A%8C%20%EC%B6%98%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C-6E7781?style=flat-square&labelColor=24292F" alt="Conference"></a>
-<a href="https://kcgs.or.kr/board/data/article/276828"><img src="https://img.shields.io/badge/Proceedings-KCGS%202026-6E7781?style=flat-square&labelColor=24292F" alt="Proceedings"></a>
 
 ### 2025
 
